@@ -24,10 +24,6 @@ ul.nav li a:hover {
 	background: #d43076;
 }
 
-form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
-	border-color: #d43076;
-}
-
 footer {
     background-color: #d43076;
 }
