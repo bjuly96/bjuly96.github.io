@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="610f166b-c4bc-4c2c-a890-978d642313c9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/IMG_6610.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="610f166b-c4bc-4c2c-a890-978d642313c9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,8 +21,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="309" column="0" lean-forward="true" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+            <state relative-caret-position="332">
+              <caret line="318" column="18" lean-forward="true" selection-start-line="318" selection-start-column="18" selection-end-line="318" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -63,7 +59,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
-    <option name="height" value="688" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -80,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,7 +147,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,14 +278,15 @@
       <workItem from="1499231172856" duration="458000" />
       <workItem from="1499263773720" duration="576000" />
       <workItem from="1499657200179" duration="1065000" />
+      <workItem from="1499658506155" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36194000" />
+    <option name="totallyTimeSpent" value="36229000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="688" extended-state="6" />
+    <frame x="0" y="23" width="1366" height="690" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24535316" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1749,16 +1746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1499231613000" expanded="true" signature="11:31" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="61:81" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="98:118" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="138:158" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="264:298" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="309:334" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="343:377" ph="{...}" />
-            <marker date="1499231613000" expanded="true" signature="389:461" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1829,8 +1816,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="309" column="0" lean-forward="true" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+        <state relative-caret-position="332">
+          <caret line="318" column="18" lean-forward="true" selection-start-line="318" selection-start-column="18" selection-end-line="318" selection-end-column="18" />
           <folding />
         </state>
       </provider>
